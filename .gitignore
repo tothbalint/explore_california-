@@ -2,6 +2,7 @@
 
 tempfile.txt
 tempfile2.txt
+tempfile3.txt
 .DS_Store
 *.zip
 *.gz
